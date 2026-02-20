@@ -1,4 +1,4 @@
-# 🌍 Global Crude Oil Production and Price Trends (2015–2024)
+# Global Crude Oil Production and Price Trends (2015–2024)
 
 ## 📌 Project Overview
 
@@ -61,7 +61,7 @@ The dataset was structured at yearly granularity, making it suitable for trend a
 
 The cleaned dataset was then exported for use in Power BI.
 
-
+[View Full Analysis Here](Day_1/Day_1.ipynb)
 
 ## 🔍 Analysis Approach
 #### 1. Descriptive Analysis
@@ -85,13 +85,15 @@ The cleaned dataset was then exported for use in Power BI.
 
 ## 📊 Dashboard Design (Power BI)
 
+![Dashboard Design (Power BI)](Crude_Oil/Crude_Oil.jpeg)
+
 #### Key KPIs
 
-- Average Brent Price
-- Average WTI Price
-- Average Global Production
-- Average OPEC Production
-- Average Non-OPEC Production
+- Average Brent Price (66.25)
+- Average WTI Price (62.14)
+- Average Global Production (75.95)
+- Average OPEC Production (29.78)
+- Average Non-OPEC Production (46.17)
 
 #### Visuals Included
 - Line charts for price and production trends
@@ -104,6 +106,7 @@ The cleaned dataset was then exported for use in Power BI.
 - Producer type (Global, OPEC, Non-OPEC)
 
 ## 💡 Key Insights
+
 #### Price Trends (Brent & WTI)
 Crude oil prices move closely together over time, with similar peaks and declines. Prices dropped sharply during the 2020 COVID shock, rebounded strongly in 2022, and eased again in recent years.
 OPEC vs Non-OPEC Production
