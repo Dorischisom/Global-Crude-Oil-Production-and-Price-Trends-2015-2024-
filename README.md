@@ -61,7 +61,7 @@ The dataset was structured at yearly granularity, making it suitable for trend a
 
 The cleaned dataset was then exported for use in Power BI.
 
-[View Full Analysis Here](./Day_1.ipynb)
+[View Full Analysis Here](Day_1.ipynb)
 
 ## 🔍 Analysis Approach
 #### 1. Descriptive Analysis
